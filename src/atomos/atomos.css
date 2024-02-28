@@ -1,0 +1,32 @@
+.boton{
+    font-family: "Nunito", sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+    height: 55px;
+    width: 110px;
+    background-color: #C87C4B;
+    padding: 0 4px;
+    color: #fff;
+    border: none;
+}
+
+
+.iconos{
+    display: grid;
+    height: 67px;
+    text-align: center;
+    align-items: start;
+    gap: 10px;
+}
+
+.iconEventos {
+    width: 106px;
+}
+
+.iconRegistrarPago {
+    width: 133px;   
+}
+
+.contenedorBoton{
+    text-align: center;
+}

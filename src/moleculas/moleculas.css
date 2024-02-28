@@ -1,0 +1,38 @@
+.footer{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #A7AFBF;
+    padding: 0 30px;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.columna{
+    width: fit-content;
+}
+
+.header{
+    display: grid;
+    background-color: #A7AFBF;
+    grid-template-columns: auto auto auto;
+    padding: 0 30px;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.elementForm{
+    display: grid;
+    gap: 10px;
+    width: 335px;
+    height: 82px;
+}
+
+.input{
+    width: auto;
+    height: 50px;
+    border-color: #4F5E80;
+    border-radius: 10px;
+    font-size: 16px;
+}
